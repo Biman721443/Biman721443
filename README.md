@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/biman-gharai-236320226/" target="_blank">[Click here]</a>
 </p>
 
-<h3 align="left">Languages  Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <br />
 
