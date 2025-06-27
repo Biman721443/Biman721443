@@ -19,7 +19,7 @@
   </a>
 </div>
 
-<h3 align="center">An aspiring rFontend Engineer</h3>
+<h3 align="center">An aspiring Full Stack Web Devloper</h3>
 
 <div align="center">
   <img
@@ -52,7 +52,7 @@
 </p> -->
 
 <p>
-  👨‍💻 My Portfilio -<a href="https://biman721443.github.io/" target="_blank">[Click here]</a>
+  👨‍💻 My Portfilio -<a href="https://protfolio-wheat-gamma.vercel.app/" target="_blank">[Click here]</a>
 </p>
 
 <p>
@@ -67,7 +67,7 @@
 <p>
   📄 Know about my skills [Resume] -
   <a
-    href="https://drive.google.com/file/d/1_gN5MlMT9q-nueQtxZZdbbegfT54tnm9/view?usp=share_link" target="_blank"
+    href="https://drive.google.com/file/d/1JDNjqHiFrpKAmgYUoL_XYi_Cv7yjLRUP/view?usp=sharing" target="_blank"
     >[Click here]</a
   >
 </p>
@@ -105,14 +105,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=for-the-badge&logo=MongoDB5&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=NetworkingDB5&logoColor=white)
 ![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white)
-<!--  -->
-
-# 📞 Customer Service Skills:
-<!--  -->
-![Communications](https://img.shields.io/badge/communications-%231f1e1f.svg?style=for-the-badge&logo=communications&logoColor=%red) 
-![Patience](https://img.shields.io/badge/patience-%231f1e1f.svg?style=for-the-badge&logo=patience&logoColor=%red) 
-![Empathy](https://img.shields.io/badge/empathy-%231f1e1f.svg?style=for-the-badge&logo=empathy&logoColor=%red) 
-![Active Listening](https://img.shields.io/badge/activelistening-%231f1e1f.svg?style=for-the-badge&logo=activelistening&logoColor=%red) 
 <!--  -->
 
 # 🧮 Soft Skills:
